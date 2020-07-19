@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Préparation Raids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2020 00:37:26 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:37:33 +0200</lastBuildDate>
     
 	<atom:link href="https://arkheon.github.io/In-Memory/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>AQ40</title>
       <link>https://arkheon.github.io/In-Memory/tags/aq40/</link>
-      <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
+      <pubDate>Sat, 18 Jul 2020 00:37:33 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/tags/aq40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ouro</title>
+      <link>https://arkheon.github.io/In-Memory/tags/ouro/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:33 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/ouro/</guid>
       <description></description>
     </item>
     
@@ -62,6 +71,33 @@
       <pubDate>Sat, 18 Jul 2020 00:37:18 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/tags/yauj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empereurs</title>
+      <link>https://arkheon.github.io/In-Memory/tags/empereurs/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:55 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/empereurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twins</title>
+      <link>https://arkheon.github.io/In-Memory/tags/twins/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:55 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/twins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huhuran</title>
+      <link>https://arkheon.github.io/In-Memory/tags/huhuran/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:41 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/huhuran/</guid>
       <description></description>
     </item>
     
