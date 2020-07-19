@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vem on Préparation Raids</title>
+    <link>https://arkheon.github.io/In-Memory/tags/vem/</link>
+    <description>Recent content in Vem on Préparation Raids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 18 Jul 2020 00:37:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://arkheon.github.io/In-Memory/tags/vem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bug_trio</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/bug_trio/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:18 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/bug_trio/</guid>
+      <description>Seigneur Kri, Vem et Princesse Yauj forment un trio de boss d&amp;rsquo;AQ40. Il s&amp;rsquo;agit d&amp;rsquo;une rencontre optionnelle, ce qui signifie que vous n&amp;rsquo;avez pas besoin de les affronter pour progresser dans l&amp;rsquo;instance. La particularité de cet affrontement vient du fait que selon les loots que vous souhaitez obtenir, vous devez tuer les boss dans un ordre différent. C&amp;rsquo;est toujours le dernier boss tué qui dropera ses objets, pas les deux autres.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skeram on Préparation Raids</title>
+    <link>https://arkheon.github.io/In-Memory/tags/skeram/</link>
+    <description>Recent content in Skeram on Préparation Raids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 18 Jul 2020 00:28:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://arkheon.github.io/In-Memory/tags/skeram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skeram</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/skeram/</link>
+      <pubDate>Sat, 18 Jul 2020 00:28:54 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/skeram/</guid>
+      <description>Prophète Skeram est le premier boss d&amp;rsquo;AQ40. Vous devez le tuer pour accéder au reste de l&amp;rsquo;instance. Le combat est plutôt sympa et vaut surtout pour la mécanique de clonage. Le boss va en effet invoquer deux clones régulièrement, lesquels devront être tués tout en gérant correctement l&amp;rsquo;aggro, sinon le combat peut rapidement devenir extrêmement chaotique.
+Consommables spécifiques pour le combat Potion de résistance supérieure aux arcanes Aptitudes de Skeram  Accomplissement véritable : Permet à Skeram de contrôler le joueur en mêlée le plus proche de lui durant une vingtaine de secondes.</description>
+    </item>
+    
+  </channel>
+</rss>
