@@ -17,7 +17,7 @@
       <pubDate>Sat, 18 Jul 2020 00:37:33 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/aq40/ouro/</guid>
-      <description>Ouro Ouro est un boss optionnel d&amp;rsquo;AQ40, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. Le combat alterne deux phases lors desquelles Ouro est soit visible, soit enfoui sous le sable. Il utilise des aptitudes différentes dans chaque cas et termine le combat avec un Enrage qu&amp;rsquo;il faudra gérer au mieux.
+      <description>Ouro est un boss optionnel d&amp;rsquo;AQ40, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. Le combat alterne deux phases lors desquelles Ouro est soit visible, soit enfoui sous le sable. Il utilise des aptitudes différentes dans chaque cas et termine le combat avec un Enrage qu&amp;rsquo;il faudra gérer au mieux.
 Consommables spécifiques pour le combat Potion de protection contre la Nature supérieure Aptitudes  Balayer : Une attaque qui renverse les joueurs à courte portée, mais à 360° autour du boss.</description>
     </item>
     
@@ -27,7 +27,8 @@ Consommables spécifiques pour le combat Potion de protection contre la Nature s
       <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/aq40/viscidus/</guid>
-      <description>Viscidus Il est optionnel, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. La mécanique de la rencontre est particulièrement originale. En effet, vous devez progressivement refroidir le boss pour le geler, puis le frapper rapidement pour le faire exploser en globules, lesquels devront être éliminés pour avoir une chance de faire tomber Viscidus. Mais attention, les aptitudes empoisonnées du boss font très mal.</description>
+      <description>Il est optionnel, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. La mécanique de la rencontre est particulièrement originale. En effet, vous devez progressivement refroidir le boss pour le geler, puis le frapper rapidement pour le faire exploser en globules, lesquels devront être éliminés pour avoir une chance de faire tomber Viscidus. Mais attention, les aptitudes empoisonnées du boss font très mal.
+Consommables spécifiques pour le combat Potion de protection contre la Nature supérieure Charge de sapeur gobelin Huile glaciale Aptitudes  Horion empoisonné : Une attaque avec une zone d&amp;rsquo;effet faisant +/- 1250 points de dégâts Nature.</description>
     </item>
     
     <item>
@@ -40,12 +41,21 @@ Consommables spécifiques pour le combat Potion de protection contre la Nature s
     </item>
     
     <item>
+      <title>C&#39;thun</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/cthun/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:07 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/cthun/</guid>
+      <description>C&amp;rsquo;Thun est le dernier boss d&amp;rsquo;AQ40. Vous pouvez être fier de vous, vous avez atteint celui qui fut longtemps le boss le plus difficile à vaincre de World of Warcraft. Pour en venir à bout, vous aurez besoin d&amp;rsquo;être correctement positionné, d&amp;rsquo;avoir une excellente résistance à la Nature et d&amp;rsquo;être très concentré. Le combat se déroule en deux phases, avec d&amp;rsquo;un côté l&amp;rsquo;Oeil de C&amp;rsquo;Thun et ses tentacules, puis C&amp;rsquo;Thun, ses tentacules et son appétit féroce quand il s&amp;rsquo;agit d&amp;rsquo;avaler des joueurs.</description>
+    </item>
+    
+    <item>
       <title>Twins</title>
       <link>https://arkheon.github.io/In-Memory/aq40/twins/</link>
       <pubDate>Sat, 18 Jul 2020 00:36:55 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/aq40/twins/</guid>
-      <description>Empereurs Jumeaux Vous combattrez les deux Empereurs simultanément, sachant qu&amp;rsquo;ils disposent chacun de spécificités propres. L&amp;rsquo;un fait des dégâts physiques tandis que l&amp;rsquo;autre est un sorcier et sera tanké, la plupart du temps, par un Démoniste. Les moments les plus tendus seront sans aucun doute les téléportations, nécessitant de récupérer l&amp;rsquo;aggro.
+      <description>Vous combattrez les deux Empereurs simultanément, sachant qu&amp;rsquo;ils disposent chacun de spécificités propres. L&amp;rsquo;un fait des dégâts physiques tandis que l&amp;rsquo;autre est un sorcier et sera tanké, la plupart du temps, par un Démoniste. Les moments les plus tendus seront sans aucun doute les téléportations, nécessitant de récupérer l&amp;rsquo;aggro.
 Consommables spécifiques pour le combat Potion de protection contre l&amp;#39;ombre supérieure Aptitudes Aptitudes communes aux Twins  Soigner frère : Si les frères sont à moins de 60m l&amp;rsquo;un de l&amp;rsquo;autre, ils vont se soigner très rapidement.</description>
     </item>
     
@@ -55,7 +65,7 @@ Consommables spécifiques pour le combat Potion de protection contre l&amp;#39;o
       <pubDate>Sat, 18 Jul 2020 00:36:41 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/aq40/huhuran/</guid>
-      <description>Princesse Huhuran Avec elle, un raid peut souffler le chaud et le froid. Si la première phase est gérable somme toute assez facilement, la seconde est monstrueuse et nécessite une excellente résistance à la Nature de la part d&amp;rsquo;au moins 15 joueurs du raid (idéalement 300 pour les tanks, minimum 200 pour les autres). Les salves d&amp;rsquo;éclairs de poison font tellement mal qu&amp;rsquo;un wipe est assuré si vous ne combinez pas un une bonne résistance Nature et un bon DPS.</description>
+      <description>Avec elle, un raid peut souffler le chaud et le froid. Si la première phase est gérable somme toute assez facilement, la seconde est monstrueuse et nécessite une excellente résistance à la Nature de la part d&amp;rsquo;au moins 15 joueurs du raid (idéalement 300 pour les tanks, minimum 200 pour les autres). Les salves d&amp;rsquo;éclairs de poison font tellement mal qu&amp;rsquo;un wipe est assuré si vous ne combinez pas un une bonne résistance Nature et un bon DPS.</description>
     </item>
     
     <item>
