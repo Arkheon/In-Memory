@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Préparation Raids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2020 00:37:33 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 17:07:28 +0200</lastBuildDate>
     
 	<atom:link href="https://arkheon.github.io/In-Memory/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>AQ40</title>
       <link>https://arkheon.github.io/In-Memory/tags/aq40/</link>
-      <pubDate>Sat, 18 Jul 2020 00:37:33 +0200</pubDate>
+      <pubDate>Sun, 19 Jul 2020 17:07:28 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/tags/aq40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>checklist</title>
+      <link>https://arkheon.github.io/In-Memory/tags/checklist/</link>
+      <pubDate>Sun, 19 Jul 2020 17:07:28 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/checklist/</guid>
       <description></description>
     </item>
     
