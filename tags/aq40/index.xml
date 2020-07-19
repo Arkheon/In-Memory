@@ -6,18 +6,47 @@
     <description>Recent content in AQ40 on Préparation Raids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2020 00:37:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:37:26 +0200</lastBuildDate>
     
 	<atom:link href="https://arkheon.github.io/In-Memory/tags/aq40/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bug_trio</title>
+      <title>Viscidus</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/viscidus/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/viscidus/</guid>
+      <description>Viscidus Il est optionnel, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. La mécanique de la rencontre est particulièrement originale. En effet, vous devez progressivement refroidir le boss pour le geler, puis le frapper rapidement pour le faire exploser en globules, lesquels devront être éliminés pour avoir une chance de faire tomber Viscidus. Mais attention, les aptitudes empoisonnées du boss font très mal.</description>
+    </item>
+    
+    <item>
+      <title>Bug Trio : Krim , Vej et Yauj</title>
       <link>https://arkheon.github.io/In-Memory/aq40/bug_trio/</link>
       <pubDate>Sat, 18 Jul 2020 00:37:18 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/aq40/bug_trio/</guid>
       <description>Seigneur Kri, Vem et Princesse Yauj forment un trio de boss d&amp;rsquo;AQ40. Il s&amp;rsquo;agit d&amp;rsquo;une rencontre optionnelle, ce qui signifie que vous n&amp;rsquo;avez pas besoin de les affronter pour progresser dans l&amp;rsquo;instance. La particularité de cet affrontement vient du fait que selon les loots que vous souhaitez obtenir, vous devez tuer les boss dans un ordre différent. C&amp;rsquo;est toujours le dernier boss tué qui dropera ses objets, pas les deux autres.</description>
+    </item>
+    
+    <item>
+      <title>Fankriss</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/fankriss/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:29 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/fankriss/</guid>
+      <description>Si le boss en lui-même est très facile à appréhender, il en va autrement des adds qui vont apparaître dans la salle. Ce sont eux qui rendre la rencontre délicate à gérer, et les Rejetons de Fankriss devront être gérés en priorité puisqu&amp;rsquo;ils sont capables de tuer n&amp;rsquo;importe quel joueur lorsqu&amp;rsquo;ils enragent.
+Consommables spécifiques pour le combat N/A Aptitudes  Blessure mortelle : Un debuff qui réduit les soins sur la cible de 10%.</description>
+    </item>
+    
+    <item>
+      <title>Sartura</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/sartura/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:19 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/sartura/</guid>
+      <description>Elle est entourée de plusieurs adds que vous allez devoir gérer un par un avant de vous attaquer à Sartura elle-même. Le plus difficile sera de gérer les tourbillons de tout ce petit monde, les dégâts étant assez importants. Un premier enrage rendra la rencontre plus difficile, tandis qu&amp;rsquo;un second, au bout de 10 minutes de jeu, engendrera forcément un wipe.
+Consommables spécifiques pour le combat N/A Aptitudes Les aptitudes de Sartura et de ses gardiennes sont grosso modo identiques:</description>
     </item>
     
     <item>
@@ -27,7 +56,7 @@
       
       <guid>https://arkheon.github.io/In-Memory/aq40/skeram/</guid>
       <description>Prophète Skeram est le premier boss d&amp;rsquo;AQ40. Vous devez le tuer pour accéder au reste de l&amp;rsquo;instance. Le combat est plutôt sympa et vaut surtout pour la mécanique de clonage. Le boss va en effet invoquer deux clones régulièrement, lesquels devront être tués tout en gérant correctement l&amp;rsquo;aggro, sinon le combat peut rapidement devenir extrêmement chaotique.
-Consommables spécifiques pour le combat Potion de résistance supérieure aux arcanes Aptitudes de Skeram  Accomplissement véritable : Permet à Skeram de contrôler le joueur en mêlée le plus proche de lui durant une vingtaine de secondes.</description>
+Consommables spécifiques pour le combat Potion de protection contre les Arcanes supérieure Aptitudes  Accomplissement véritable : Permet à Skeram de contrôler le joueur en mêlée le plus proche de lui durant une vingtaine de secondes.</description>
     </item>
     
   </channel>

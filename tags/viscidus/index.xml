@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viscidus on Préparation Raids</title>
+    <link>https://arkheon.github.io/In-Memory/tags/viscidus/</link>
+    <description>Recent content in Viscidus on Préparation Raids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 18 Jul 2020 00:37:26 +0200</lastBuildDate>
+    
+	<atom:link href="https://arkheon.github.io/In-Memory/tags/viscidus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viscidus</title>
+      <link>https://arkheon.github.io/In-Memory/aq40/viscidus/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/aq40/viscidus/</guid>
+      <description>Viscidus Il est optionnel, ce qui signifie que vous n&amp;rsquo;avez pas besoin de le tuer pour avancer dans l&amp;rsquo;instance. La mécanique de la rencontre est particulièrement originale. En effet, vous devez progressivement refroidir le boss pour le geler, puis le frapper rapidement pour le faire exploser en globules, lesquels devront être éliminés pour avoir une chance de faire tomber Viscidus. Mais attention, les aptitudes empoisonnées du boss font très mal.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Préparation Raids</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 18 Jul 2020 00:37:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:37:26 +0200</lastBuildDate>
     
 	<atom:link href="https://arkheon.github.io/In-Memory/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>AQ40</title>
       <link>https://arkheon.github.io/In-Memory/tags/aq40/</link>
-      <pubDate>Sat, 18 Jul 2020 00:37:18 +0200</pubDate>
+      <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/tags/aq40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscidus</title>
+      <link>https://arkheon.github.io/In-Memory/tags/viscidus/</link>
+      <pubDate>Sat, 18 Jul 2020 00:37:26 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/viscidus/</guid>
       <description></description>
     </item>
     
@@ -53,6 +62,24 @@
       <pubDate>Sat, 18 Jul 2020 00:37:18 +0200</pubDate>
       
       <guid>https://arkheon.github.io/In-Memory/tags/yauj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fankriss</title>
+      <link>https://arkheon.github.io/In-Memory/tags/fankriss/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:29 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/fankriss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sartura</title>
+      <link>https://arkheon.github.io/In-Memory/tags/sartura/</link>
+      <pubDate>Sat, 18 Jul 2020 00:36:19 +0200</pubDate>
+      
+      <guid>https://arkheon.github.io/In-Memory/tags/sartura/</guid>
       <description></description>
     </item>
     
